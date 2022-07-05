@@ -1,3 +1,5 @@
+# This repo has become obsolete in favor of a more user-friedly implementation of LMI -- [TerkaSlan/Learned-Metric-Index-Framework](https://github.com/TerkaSlan/Learned-Metric-Index-Framework)
+
 # Learned-indexes
 ![abstr](./img/graphical_abstract-1.png)
 
